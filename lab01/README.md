@@ -7,4 +7,4 @@ César Guedes Carneiro
 ## Tarefa 2
 > Monte um diagramas que representem modelos dos dados que você terá acesso e como pretende associá-los. Coloque abaixo uma imagem do diagrama.
 
-![diagrama dos bancos de dados](images/tarefa 2.png)
+![diagrama dos bancos de dados](images/tarefa2.png)
