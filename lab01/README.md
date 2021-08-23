@@ -6,4 +6,4 @@ César Guedes Carneiro
 * [Notebook em Python](notebook/tarefa1.ipynb/).
 ## Tarefa 2
 > Monte um diagramas que representem modelos dos dados que você terá acesso e como pretende associá-los. Coloque abaixo uma imagem do diagrama.
-![diagrama dos bancos de dados](tarefa 2.png)
+[!diagrama dos bancos de dados](tarefa 2.png)
