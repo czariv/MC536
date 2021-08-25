@@ -8,3 +8,4 @@ César Guedes Carneiro
 > Monte um diagramas que representem modelos dos dados que você terá acesso e como pretende associá-los. Coloque abaixo uma imagem do diagrama.
 
 ![diagrama dos bancos de dados](images/tarefa2.png)
+O diagrama acima representa o modelo dos dados da pubchem
