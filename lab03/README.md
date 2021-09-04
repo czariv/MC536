@@ -1,5 +1,5 @@
 # Aluno
 * César Guedes Carneiro
 * RA: 261031
-## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
+## Tarefa sobre Consultas SQL no NHANES
 * [Notebook em Python](notebook/lab3.ipynb/).
