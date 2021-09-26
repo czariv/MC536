@@ -18,6 +18,10 @@ O artigo trata do processo de criação do dataset SMMnet, alguns usos que os au
 ## Perguntas de pesquisa/análises
 
 > Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+* Mídias Sociais: O dataset SMMnet pode ser usado para diversos tipos de pesquisas relacionadas a mídias sociais, assim como mencionado no artigo. Analisando o comportamento de jogadores individuais, ou grupos de jogadores com características em comum.
+* Inteligência Artificial nos Jogos: Como o dataset oferece o comportamento dos jogadores, é possível analisar padrões entre jogadores.
+* Detecção de Jogadores Influentes: O artigo descreve como o SMMnet foi utilizado em outros estudos para encontrar jogadores com muita influência em criar novas tendências ao criar conteúdo para o jogo, utilizando as interações dentro do jogo, ou fora, através de outro tipo de mídia social.
+
 
 ## Trabalhos relacionados
 
