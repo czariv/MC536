@@ -6,7 +6,7 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | https://supermariomakerbookmark.nintendo.net/ |
+| referência | Mauro, L. and Leonardo, R. (2019). SMMnet: A Social Network of Games Dataset *In Simpósio Brasileiro de Banco de Dados: Dataset Showcase Workshop, 2019*, pages 1-11. |
 | link       | https://drive.google.com/file/d/1JbYl_OQzHH-GiZmDYXmARnwA0Yg4TJYh/view |
 | dataset | https://www.kaggle.com/leomauro/smmnet |
 | formato | CSV |
