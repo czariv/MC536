@@ -17,7 +17,6 @@ O artigo trata do processo de criação do dataset SMMnet, alguns usos que os au
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
 * Mídias Sociais: O dataset SMMnet pode ser usado para diversos tipos de pesquisas relacionadas a mídias sociais, assim como mencionado no artigo. Analisando o comportamento de jogadores individuais, ou grupos de jogadores com características em comum.
 * Inteligência Artificial nos Jogos: Como o dataset oferece o comportamento dos jogadores, é possível analisar padrões entre jogadores.
 * Detecção de Jogadores Influentes: O artigo descreve como o SMMnet foi utilizado em outros estudos para encontrar jogadores com muita influência em criar novas tendências ao criar conteúdo para o jogo, utilizando as interações dentro do jogo, ou fora, através de outro tipo de mídia social.
@@ -25,7 +24,6 @@ O artigo trata do processo de criação do dataset SMMnet, alguns usos que os au
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
 * Aung, M., Bonometti, V., Drachen, A., Cowling, P., Kokkinakis, A. V., Yoder, C., and Wade, A. (2018). Predicting skill learning in a large, longitudinal moba dataset. In 2018 IEEE Conference on Computational Intelligence and Games (CIG), pages 1–7.
 * Eberhard, L., Kasper, P., Koncar, P., and Gutl, C. (2018). Investigating helpfulness of video game reviews on the steam platform. In 2018 Fifth International Conference on Social Networks Analysis, Management and Security (SNAMS), pages 43–50.
 * Gros, D., Hackenholt, A., Zawadzki, P., and Wanner, B. (2018). Interactions of twitch users and their usage behavior. In Meiselwitz, G., editor, Social Computing and Social Media. Technologies and Analytics, pages 201–213, Cham. Springer International Publishing.
