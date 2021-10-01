@@ -13,7 +13,7 @@
 
 ## Resumo
 
-O artigo trata do processo de criação do dataset SMMnet, alguns usos que os autores imaginam para esse dataset. O artigo começa falando sobre como o mercado de jogos eletrônicos vem crescendo o que levou a procura por dados sobre a experiência dos jogadores, já que o comportamento dos jogadores é algo crucial no desenvolvimento de jogos. Em seguida os autores comentam do porquê da escolha do jogo mario maker para a criação do dataset, além de explicar como um jogador consegue interagir com este jogo. Os autores descrevem como foi feita a coleta dos dados usados no dataset através do site https://supermariomakerbookmark.nintendo.net/index_en-US.html(agora desativado), e o modelo em que esses dados estariam, posteriormente no artigo são feitas algumas análises desses dados. Por fim, o artigo lista alguns usos do dataset.
+O artigo trata do processo de criação do dataset SMMnet, alguns usos que os autores imaginam para esse dataset. O artigo começa falando sobre como o mercado de jogos eletrônicos vem crescendo o que levou a procura por dados sobre a experiência dos jogadores, já que o comportamento dos jogadores é algo crucial no desenvolvimento de jogos. Em seguida os autores comentam do porquê da escolha do jogo mario maker para a criação do dataset, além de explicar como um jogador consegue interagir com este jogo. Os autores descrevem como foi feita a coleta dos dados usados no dataset através do site https://supermariomakerbookmark.nintendo.net/index_en-US.html (agora desativado), e o modelo em que esses dados estariam, posteriormente no artigo são feitas algumas análises desses dados. Por fim, o artigo lista alguns usos do dataset.
 
 ## Perguntas de pesquisa/análises
 
