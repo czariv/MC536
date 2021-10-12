@@ -8,6 +8,6 @@
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+* Qual a variação percentual no valor de um índice no último ano?
+* Qual a média de ganhos para os índices de um determinado país em um dia específico?
+* A qual país um índice pertence e quais outros índices pertencem a este mesmo país?
