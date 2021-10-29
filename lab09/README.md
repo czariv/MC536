@@ -3,7 +3,7 @@
 * 261031
 
 ## Modelo Lógico do Banco de Dados de Grafos
-![Diagrama de Orquestração](images/modelo-logico-grafos.png)
+![Grafo de Conhecimento](images/knowledge-graph.png)
 
 ## Perguntas de Pesquisa/análise
 
