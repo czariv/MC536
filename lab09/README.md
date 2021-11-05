@@ -2,12 +2,12 @@
 * César Guedes Carneiro
 * 261031
 
-## Modelo Lógico do Banco de Dados de Grafos
+## Exemplo de Grafo de Conhecimento - para publicar ou enriquecer
 ![Grafo de Conhecimento](images/knowledge-graph.png)
 
-## Perguntas de Pesquisa/análise
+## Perguntas de Pesquisa ou Queries
 
-> Liste aqui as três perguntas de pesquisa/análise
+> Liste aqui as três perguntas de pesquisa ou queries
 * Retorne o texto do nome de todos os índices que pertencem ao país “Brasil”.
 ~~~xquery
 //index[country[name = "Brasil"]]/name/text()
